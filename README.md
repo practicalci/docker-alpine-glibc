@@ -41,5 +41,5 @@ Attributions
 This work is derived from [frol/docker-alpine-glibc](https://github.com/frol/docker-alpine-glibc), [Vlad Frolov](https://github.com/frol) work.
 
 
-Original licenses and attributions are are kept in [attributions](attributions/ATTRIBUTIONS.rst) folder.
+Original licenses and attributions are are kept in [attributions](./attributions/ATTRIBUTIONS.md) folder.
 
