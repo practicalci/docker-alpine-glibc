@@ -35,7 +35,7 @@ This image is intended to be a base image for your projects, so you may use it l
 ::
 
     Dockerfile
-        FROM frolvlad/alpine-glibc
+        FROM practicalci/alpine-glibc
         
         COPY ./my_app /usr/local/bin/my_app
 
